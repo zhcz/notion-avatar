@@ -35,7 +35,7 @@ export default function Footer() {
           href="https://abstractlab.gumroad.com/l/noto-avatar"
           className="hover:underline"
         >
-          &copy;{` ${t(`illustrations`)}`}
+          {` ${t(`illustrations`)}`}
         </a>
         {t(`designedBy`)}
         <a href="http://lintiebao.com" className="hover:underline">
