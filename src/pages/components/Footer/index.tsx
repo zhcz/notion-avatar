@@ -46,7 +46,7 @@ export default function Footer() {
           className="hover:underline"
           href="https://creativecommons.org/publicdomain/zero/1.0/"
         >
-          {` CC0 `}
+          {`  `}
         </a>
         {t(`license`)}
       </div>
