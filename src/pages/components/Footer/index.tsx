@@ -39,14 +39,14 @@ export default function Footer() {
         </a>
         {t(`designedBy`)}
         <a href="https://twitter.com/felix12777" className="hover:underline">
-          {` Felix Wong `}
+          {``}
         </a>
         {t(`underDesign`)}
         <a
           className="hover:underline"
           href="https://creativecommons.org/publicdomain/zero/1.0/"
         >
-          {` CC0 `}
+          {``}
         </a>
         {t(`license`)}
       </div>
