@@ -19,7 +19,7 @@ export default function Footer() {
           className="transition hidden md:inline-block hover:underline"
           href="https://dribbble.com/phillzou"
         >
-          {t(`dribbble`)}
+          
         </a>
         <span className="mx-2 hidden md:inline-block">·</span>
         <a className="hover:underline" href="https://twitter.com/phillzou">
