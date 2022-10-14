@@ -5,6 +5,7 @@
   "private": true,
   "author": "mayandev<phillzou@gmail.com> (@phillzou)",
   "license": "MIT",
+  "homepage": "https://my-app.netlify.app",
   "keywords": [
     "nextjs",
     "starter",
